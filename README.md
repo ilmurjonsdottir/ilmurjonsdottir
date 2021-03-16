@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilmurjonsdottir
 - 👀 I’m interested in microbial genetics
-- 🌱 I’m currently learning R Programming and molecular biology / microbiology
+- 🌱 I’m currently learning R programming and molecular biology / microbiology
 - 💞️ I’m looking to collaborate on bioinformatics projects
 - 📫 How to reach me linkedin.com/in/ijonsdottir
 
